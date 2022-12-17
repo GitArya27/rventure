@@ -5,7 +5,7 @@ Ever felt like going on a ride but ran out of bikes, or want to make a use out o
 
 
 
-R Venture is a vehicle renting app where we can rent out our not-in-use vehicles like cyles and bikes to people who need it.
+R Venture is a vehicle renting app where we can rent out our not-in-use vehicles like cyles and bikes to people who need it and vice-vera we can be the lenders as well.
 
 ## Technologies Used
 
