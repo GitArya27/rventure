@@ -1,5 +1,5 @@
 package com.example.r_venture
-
+//Rventure
 import android.content.Intent
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
